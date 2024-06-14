@@ -1,0 +1,41 @@
+/* CustomSwagger.css */
+.swagger-ui .opblock-tag-section .opblock-tag {
+    color: #f8f8f2;
+    border-radius: 4px;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .swagger-ui .opblock .opblock-summary {
+    color: #f8f8f2;
+    border-radius: 4px;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .swagger-ui .opblock .opblock-summary-description {
+    color: #f8f8f2;
+  }
+  
+  .swagger-ui .opblock .opblock-section-header h4 {
+    color: #f8f8f2;
+  }
+  
+  .swagger-ui .opblock .opblock-section-header > label {
+    color: #f8f8f2;
+  }
+  
+  .swagger-ui .opblock-body .opblock-description-wrapper p, 
+  .swagger-ui .opblock-body .opblock-description-wrapper li {
+    color: #f8f8f2;
+  }
+  
+  .swagger-ui .opblock-body .parameters-col_description p, 
+  .swagger-ui .opblock-body .parameters-col_description li {
+    color: #f8f8f2;
+  }
+  
+  .swagger-ui .opblock-body .responses-inner h4, 
+  .swagger-ui .opblock-body .responses-inner h5 {
+    color: #f8f8f2;
+  }
